@@ -1,3 +1,7 @@
+# My-Website
+
+A website about me made by me for everyone.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
